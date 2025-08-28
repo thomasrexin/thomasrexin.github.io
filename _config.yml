@@ -22,7 +22,7 @@ repository               : "thomasrexin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic.jpg"
+  avatar           : "/images/pic.jpg"
   name             : "Thomas Rexin"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at NC State, conducting computer science education research"
