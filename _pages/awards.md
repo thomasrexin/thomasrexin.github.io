@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Awards
-
 ### ACM Conference on International Computing Education Research (ICER) 2025 Best Paper Award
 - Awarded best paper for “Needles in a Haystack: Student Struggles with Working on Large Code Bases”
 
